@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bupko Reader</string>
+    <string name="facebook_app_id">253509745964413</string>
+    <string name="fb_login_protocol_scheme">fb253509745964413</string>
+    <!-- <string name="server_client_id">93159518816-kbhqgm5s6up528robmqmnd61qqa0hqnj.apps.googleusercontent.com</string> -->
+</resources>

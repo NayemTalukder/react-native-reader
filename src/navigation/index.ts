@@ -1,0 +1,1 @@
+export { default as Navigations, BottmTab } from './Navigations'
